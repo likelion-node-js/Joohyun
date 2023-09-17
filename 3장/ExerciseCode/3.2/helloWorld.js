@@ -8,3 +8,4 @@ function helloNode() {
 }
 
 helloWorld();
+// 경로를 입력할 때 확장자명은 생략 가능
